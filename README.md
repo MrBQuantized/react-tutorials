@@ -20,7 +20,8 @@ A React application built with **Vite** and **TypeScript**. This project is part
 ├── tsconfig.json         # Root TypeScript config
 ├── tsconfig.app.json     # TypeScript config for the app
 ├── tsconfig.node.json    # TypeScript config for Node tooling
-└── .gitignore
+├── .gitignore
+└── README.md
 ```
 
 ## 🛠️ Tech Stack
