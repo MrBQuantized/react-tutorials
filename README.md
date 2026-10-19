@@ -1,10 +1,6 @@
-You're right — here it is with the backlink included:
-
----
-
 # React App
 
-A React application built with **Vite** and **TypeScript**. This project is part of the [Frontend Learning Repository](../README.md) but is managed as a standalone app.
+A React application built with **Vite** and **TypeScript**. This project is part of the [Frontend Learning Repository](https://github.com/MrBQuantized/frontend/blob/main/README.md) but is managed as a standalone app.
 
 ## 📁 Project Structure
 
