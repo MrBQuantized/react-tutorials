@@ -90,4 +90,4 @@ This project is for personal learning and reference. Feel free to use it as insp
 
 ---
 
-**Part of the [Frontend Learning Repository](../README.md) 🚀**
+**Part of the [Frontend Learning Repository](https://github.com/MrBQuantized/frontend/blob/main/README.md) 🚀**
